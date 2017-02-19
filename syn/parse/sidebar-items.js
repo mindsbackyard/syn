@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["boolean",""],["byte",""],["byte_string",""],["character",""],["expr",""],["float",""],["ident",""],["int",""],["item",""],["lifetime",""],["lit",""],["path",""],["string",""],["tt",""],["ty",""]]});
